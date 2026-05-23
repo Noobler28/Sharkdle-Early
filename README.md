@@ -1,4 +1,4 @@
-# Sharkdle- Early-Release
+# Sharkdle - Early-Release
 
 WELCOME TO THE EARLY RELEASE OF SHARKDLE! 
 
